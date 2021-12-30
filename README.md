@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🔭 Sou dev Junior e trabalho com FullStack Java;
+- 🔭 Sou dev Junior e trabalho com FullStack;
 - 🌱 Estou estudando Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA e Hibernate;
 - 📫 Contate-me: ivanrbsf@gmail.com;
 
